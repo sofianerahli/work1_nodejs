@@ -4,7 +4,7 @@ RAHLI Sofiane
 
 ## Introduction
 
-Creation of a basic app with three routes: random names replies "hello [name] where name is a query parameter; my own name replies: "Hello I am Sofiane" and any other replies a 404 code with a not found message.
+Creation of a basic app with three routes: random names replies "hello [name]" where name is a query parameter; my own name replies: "Hello I am Sofiane" and any other replies a 404 code with a not found message.
 
 ## Requirements
 
@@ -20,6 +20,6 @@ No book is used nor required. Reliable information is gathered from wikis, GitHu
 - handles.js file defining the server's callback.
 - package.json file with my module declaration.
 
-git clone https://github.com/sofianerahli/work1_nodejs.git
-node index (to launch the code) 
-go to http://localhost:8080/ to test
+-git clone https://github.com/sofianerahli/work1_nodejs.git
+-node index (to launch the code) 
+-go to http://localhost:8080/ to test
